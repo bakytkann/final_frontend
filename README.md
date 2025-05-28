@@ -1,10 +1,10 @@
 # MeetingManager
-MeetingManager is a modern React-based web application designed to help users create, manage, and comment on meetings. It features user authentication, role-based access, localization, responsive UI, and customizable themes.
+MeetingManager is a modern React-based web application designed to help users create, manage, and comment on meetings. It features user authentication, access, localization, responsive UI, and customizable themes.
 
 
 ## Features
 **Authentication & Authorization**
-  Register, login, logout, and role-based access (admin/user).
+  Register, login, logout.
 
 **Profile Management**
   Update name, email, and upload avatar image.
